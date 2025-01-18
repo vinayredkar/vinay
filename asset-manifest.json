@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vinay/static/css/main.93ee7213.css",
+    "main.js": "/vinay/static/js/main.e1cedd26.js",
+    "index.html": "/vinay/index.html",
+    "main.93ee7213.css.map": "/vinay/static/css/main.93ee7213.css.map",
+    "main.e1cedd26.js.map": "/vinay/static/js/main.e1cedd26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ee7213.css",
+    "static/js/main.e1cedd26.js"
+  ]
+}
